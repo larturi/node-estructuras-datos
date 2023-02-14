@@ -12,6 +12,8 @@ node src/03-linked-list/singly.js
 node src/04-stack/stack.js
 
 node src/05-queues/queues.js
+
+node src/06-tree/tree.js
 ```
 
 ##### Made with ❤️ by Leandro Arturi
